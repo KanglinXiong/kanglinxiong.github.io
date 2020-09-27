@@ -1,0 +1,5 @@
+plugins:
+  - jekyll-sitemap
+
+name: Kanglin Xiong
+permalink: /blog/:year/:month/:day/:title
